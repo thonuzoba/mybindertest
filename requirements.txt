@@ -1,0 +1,13 @@
+
+name: requirements.txt
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - glob
+  - os
+  - pip:
+    - pandas
+    - matplotlib
+    - 
